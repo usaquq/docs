@@ -27,7 +27,7 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API Referen11ce",
       "url": "api-reference"
     }
   ],
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Sta11rted",
+      "group": "Get Started",
       "pages": ["introduction", "quickstart", "development"]
     },
     {
