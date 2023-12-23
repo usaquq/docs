@@ -27,7 +27,7 @@
   },
   "tabs": [
     {
-      "name": "API 接口",
+      "name": "API Reference",
       "url": "api-reference"
     }
   ],
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Get Sta11rted",
       "pages": ["introduction", "quickstart", "development"]
     },
     {
